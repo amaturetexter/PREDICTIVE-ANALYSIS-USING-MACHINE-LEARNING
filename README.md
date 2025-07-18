@@ -105,6 +105,7 @@ jupyter notebook
 [Open predictive_analysis.ipynb and run all cells sequentially.]
 ```
 ## OUTPUT:
+<img width="834" height="488" alt="Image" src="https://github.com/user-attachments/assets/1f6531dc-6eb9-4fbd-997a-727e340aec1d" />
 
 ##  Conclusion
 This machine learning model demonstrates good predictive accuracy for identifying heart disease based on basic patient health metrics. It can assist in early intervention and clinical decision-making.
