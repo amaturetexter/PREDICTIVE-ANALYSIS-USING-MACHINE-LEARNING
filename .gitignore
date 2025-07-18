@@ -1,0 +1,39 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+*.pkl
+*.h5
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model & log files
+models/*.pkl
+*.log
+
+# Output files
+outputs/*.txt
+
+# Data files
+data/*.csv
+!data/README.md  # If you want to keep a README in data/
+
+# Environment
+.env
