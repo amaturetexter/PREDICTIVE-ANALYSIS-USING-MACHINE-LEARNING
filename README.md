@@ -26,19 +26,33 @@ To build a supervised machine learning model that can predict the likelihood of 
 ## 🗂️ Folder Structure
 
 task-2-predictive-analysis-ml/
+
 ├── data/
+
 │ └── heart_disease.csv # Dataset
+
 ├── models/
+
 │ └── model.pkl # Trained logistic regression model
+
 ├── notebooks/
+
 │ └── predictive_analysis.ipynb # Jupyter notebook with step-by-step code
+
 ├── outputs/
+
 │ └── evaluation_report.txt # Evaluation results (accuracy, report, confusion matrix)
+
 ├── src/
+
 │ ├── data_loader.py # Loads dataset
+
 │ ├── preprocessing.py # Cleans, encodes, and splits data
+
 │ ├── train_model.py # Trains and saves ML model
+
 │ └── evaluate_model.py # Evaluates model performance
+
 └── README.md
 
 
