@@ -74,7 +74,7 @@ Using `data_loader.py` to import and view the dataset.
 - Stores results in `outputs/evaluation_report.txt`
 
 ---
-## 📝 Task Description (Detailed – 500+ words)
+## 📝 Task Description
 This project is a part of the Task-2 requirement of the Data Analytics Virtual Internship offered by CODETECH IT SOLUTIONS. The goal was to develop a predictive machine learning model to identify patients at risk of heart disease based on a range of medical features using a real-world dataset from Kaggle.
 
 The dataset includes clinical data such as age, sex, cholesterol levels, blood pressure, chest pain type, fasting blood sugar, ECG results, and more. The target variable is HeartDisease (1 for presence, 0 for absence of disease). This classification task was implemented using the Logistic Regression algorithm from scikit-learn due to its efficiency, simplicity, and suitability for binary classification.
