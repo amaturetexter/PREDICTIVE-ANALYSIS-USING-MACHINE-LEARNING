@@ -3,16 +3,25 @@
 ---
 
 **Company**: CODETECH IT SOLUTIONS
+
 **Name**: SALILA PUNNESHETTY
+
 **Intern ID**: *CT04DH2206*
+
 **Domain**: *DATA ANALYTICS*
+
 **Duration**: 4 Weeks
+
 **Mentor**: NEELA SANTOSH KUMAR
+
 ---
 # ❤️Heart Disease Prediction using Machine Learning
 
+
 > **Internship Task-2 – CODTECH IT SOLUTIONS**
+
 > **Project Title**: Predictive Analysis using Machine Learning  
+
 > 📊 **Dataset Used**: [Heart Disease UCI Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ---
